@@ -1,0 +1,5 @@
+flex space-x-96 h-20 drop-shadow-lg <div className={styles.shape} />;shrink-0 items-end rounded-b-lg bg-blue-500 p-4 md:h-45
+
+.shape {
+
+}
