@@ -11,7 +11,7 @@ export default function RootLayout({
       <body className={`${inter.className} antialiased`}>
         <main className="flex min-h-screen flex-col">
           {<HomeBar />}
-          <div className="mt-4 flex grow items-center justify-center flex-col gap-4 md:flex-col">
+          <div className="flex justify-center items-center h-screen">
             {children}
           </div>
         </main>
